@@ -3,6 +3,15 @@
 
 ---
 
+## Team Members
+
+| Roll No | Name | Role |
+|---------|------|------|
+| **112505041** | **YOGANANTH S** | Project Lead & MapReduce Developer |
+| **112505032** | **SUDHARSAN R** | Hive Developer & Documentation |
+
+---
+
 ## 1. Introduction
 
 ### 1.1 Project Title
