@@ -1,0 +1,25 @@
+==================================================
+ MapReduce Job 1: Average Rating Per Movie
+==================================================
+movieId   avg_rating    total_ratings  title
+------------------------------------------------------------------------------------------
+1151      5.00          2              Lesson Faust (1994)
+53        5.00          2              Lamerica (1994)
+3473      5.00          2              Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000) (1976)
+99        5.00          2              Heidi Fleiss: Hollywood Madam (1995)
+6818      5.00          2              Come and See (Idi i smotri) (1985)
+78836     5.00          2              Enter the Void (2009)
+6442      5.00          2              Belle époque (1992)
+131724    5.00          1              The Jinx: The Life and Deaths of Robert Durst (2015)
+5746      5.00          1              Galaxy of Terror (Quest) (1981)
+6835      5.00          1              Alien Contamination (1980)
+3851      5.00          1              I'm the One That I Want (2000)
+1631      5.00          1              Assignment, The (1997)
+2075      5.00          1              Mephisto (1981)
+176601    5.00          1              Black Mirror
+92494     5.00          1              Dylan Moran: Monster (2004)
+102217    5.00          1              Bill Hicks: Revelations (1993)
+27523     5.00          1              My Sassy Girl (Yeopgijeogin geunyeo) (2001)
+67618     5.00          1              Strictly Sexual (2008)
+8804      5.00          1              Story of Women (Affaire de femmes, Une) (1988)
+26350     5.00          1              Passenger, The (Professione: reporter) (1975)

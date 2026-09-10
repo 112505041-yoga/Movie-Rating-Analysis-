@@ -1,0 +1,24 @@
+=======================================================
+ MapReduce Job 4: Genre-wise Average Rating Analysis
+=======================================================
+genre             avg_rating    total_ratings  unique_movies
+----------------------------------------------------------------------
+Film-Noir         3.92          870            0
+War               3.81          4859           0
+Documentary       3.80          1219           0
+Crime             3.66          16681          1
+Drama             3.66          41928          1
+Mystery           3.63          7674           0
+Animation         3.63          6988           0
+IMAX              3.62          4145           0
+Western           3.58          1930           0
+Musical           3.56          4138           0
+Adventure         3.51          24161          0
+Romance           3.51          18124          0
+Thriller          3.49          26452          1
+Fantasy           3.49          11834          0
+Sci-Fi            3.46          17243          0
+Action            3.45          30635          1
+Children          3.41          9208           0
+Comedy            3.38          39053          0
+Horror            3.26          7291           0

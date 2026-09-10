@@ -1,0 +1,26 @@
+==================================================
+ MapReduce Job 2: Top 20 Highest Rated Movies
+ (minimum 50 ratings required)
+==================================================
+movieId   avg_rating    total_ratings  title
+------------------------------------------------------------------------------------------
+318       4.43          317            Shawshank Redemption, The (1994)
+858       4.29          192            Godfather, The (1972)
+2959      4.27          218            Fight Club (1999)
+1276      4.27          57             Cool Hand Luke (1967)
+750       4.27          97             Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+904       4.26          84             Rear Window (1954)
+1221      4.26          129            Godfather: Part II, The (1974)
+48516     4.25          107            Departed, The (2006)
+1213      4.25          126            Goodfellas (1990)
+912       4.24          100            Casablanca (1942)
+58559     4.24          149            Dark Knight, The (2008)
+50        4.24          204            Usual Suspects, The (1995)
+1197      4.23          142            Princess Bride, The (1987)
+260       4.23          251            Star Wars: Episode IV - A New Hope (1977)
+527       4.22          220            Schindler's List (1993)
+1208      4.22          107            Apocalypse Now (1979)
+2329      4.22          129            American History X (1998)
+1196      4.22          211            Star Wars: Episode V - The Empire Strikes Back (1980)
+1252      4.21          59             Chinatown (1974)
+1198      4.21          200            Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)
